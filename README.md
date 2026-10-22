@@ -1,0 +1,1 @@
+# App-to-DB-Connectivity-Check-Script
